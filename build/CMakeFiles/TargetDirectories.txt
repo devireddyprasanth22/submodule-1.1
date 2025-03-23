@@ -1,0 +1,5 @@
+/Users/dp/Desktop/speqtral_challenge/master-software/submodule-1/submodule-1.1/build/CMakeFiles/submodule11.dir
+/Users/dp/Desktop/speqtral_challenge/master-software/submodule-1/submodule-1.1/build/CMakeFiles/test-submodule11.dir
+/Users/dp/Desktop/speqtral_challenge/master-software/submodule-1/submodule-1.1/build/CMakeFiles/test.dir
+/Users/dp/Desktop/speqtral_challenge/master-software/submodule-1/submodule-1.1/build/CMakeFiles/edit_cache.dir
+/Users/dp/Desktop/speqtral_challenge/master-software/submodule-1/submodule-1.1/build/CMakeFiles/rebuild_cache.dir

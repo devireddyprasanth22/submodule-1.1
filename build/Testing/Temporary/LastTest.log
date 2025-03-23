@@ -1,0 +1,28 @@
+Start testing: Mar 23 12:13 +08
+----------------------------------------------------------
+1/1 Testing: submodule11
+1/1 Test: submodule11
+Command: "/Users/dp/Desktop/speqtral_challenge/master-software/submodule-1/submodule-1.1/build/test-submodule11"
+Directory: /Users/dp/Desktop/speqtral_challenge/master-software/submodule-1/submodule-1.1/build
+"submodule11" start time: Mar 23 12:13 +08
+Output:
+----------------------------------------------------------
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Submodule11Test
+[ RUN      ] Submodule11Test.PrintTest
+[       OK ] Submodule11Test.PrintTest (134 ms)
+[----------] 1 test from Submodule11Test (134 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (134 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.44 sec
+----------------------------------------------------------
+Test Passed.
+"submodule11" end time: Mar 23 12:13 +08
+"submodule11" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Mar 23 12:13 +08
